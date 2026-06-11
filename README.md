@@ -38,4 +38,8 @@ The dataset contains 40,000 anonymized booking transactions with the following c
 
 ## Repository Structure
 ├── README.md               # Project documentation
+
 └── ola_bookings_queries.sql # SQL script containing database setup and analytical queries
+|__ schema.png
+|__ schema.mwb
+
